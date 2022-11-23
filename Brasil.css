@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    width: 45vh;
+    height: 45vw;
+    align-items: center;
+    justify-items: center;
+    background-color: green;
+}
+
+.amarelo {
+    border-top: 23vw solid transparent;
+    border-bottom: 23vw solid transparent;
+    border-left: 55vw solid yellow;
+}
+
+.azul {
+    width: 20vw;
+    height: 20vw;
+    background-color: blue;
+    border-radius: 50%;
+}
