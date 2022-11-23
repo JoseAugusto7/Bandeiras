@@ -1,9 +1,19 @@
-div {
+body {
+    width: 50vh;
+    height: 50vw;
     display: flex;
-    width: 15em;
-    height: 15em;
-    margin-left: 40em;
-    margin-top: 15em;
+    align-items: center;
+    justify-content: center;
+}
+
+div {
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
     background-color: red;
-    border-radius: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
 }
