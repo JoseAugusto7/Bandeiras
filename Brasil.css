@@ -9,10 +9,10 @@ body {
 }
 
 .amarelo {
-    border-top:  10vh solid transparent;
-    border-bottom: 10vh solid transparent;
-    border-right: 10vh solid yellow;
-    border-left: 10vh solid yellow;
+    border-left: 10vh solid transparent;
+    border-right: 10vh solid transparent;
+    border-bottom: 10vh solid yellow;
+    border-top: 10vh solid yellow;
 }
 
 * {
